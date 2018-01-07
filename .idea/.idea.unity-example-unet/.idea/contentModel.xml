@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Doug\.Rider2017.3\system\resharper-host\local\Transient\ReSharperHost\v11\SolutionCaches\_unity-example-unet.69139635.00" t="ExcludeRecursive" />
+    <e p="D:\projects\unity\unity-packages-wip\unity-example-unet" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor-firstpass.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Demo" t="Include">
+          <e p="Infrastructure" t="Include">
+            <e p="INetworkEventHandler.cs" t="Include" />
+            <e p="INetworkProtocol.cs" t="Include" />
+            <e p="NetworkChannel.cs" t="Include" />
+            <e p="NetworkConfig.cs" t="Include" />
+            <e p="NetworkConnectionManager.cs" t="Include" />
+            <e p="NetworkEventHandler.cs" t="Include" />
+            <e p="NetworkHostManager.cs" t="Include" />
+            <e p="NetworkMessageReader.cs" t="Include" />
+            <e p="NetworkMessageWriter.cs" t="Include" />
+          </e>
+          <e p="NetworkClient.cs" t="Include" />
+          <e p="NetworkClientConnection.cs" t="Include" />
+          <e p="NetworkServer.cs" t="Include" />
+          <e p="NetworkServerConnection.cs" t="Include" />
+        </e>
+        <e p="Plugins" t="Include">
+          <e p="Editor" t="Include">
+            <e p="JetBrains" t="Include">
+              <e p="Unity3DRider.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+      <e p="unity-example-unet.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>
